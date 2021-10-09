@@ -30,6 +30,7 @@ header {
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
+  background-color: #1e7c74;
 }
 
 header strong,
@@ -96,6 +97,10 @@ nav a:focus {
   background-color: #1e7c74;
 }
 
+nav a:focus {
+  border: 2px solid #222;
+  border-radius: 0;
+}
 .icon {
   position: relative;
 }
@@ -161,4 +166,5 @@ footer {
   background-image: url("../images/anchors.svg");
   color: #fff;
   align-items: center;
+  background-color: #1e7c74;
 }
