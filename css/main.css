@@ -87,7 +87,7 @@ nav a {
   border: 0;
   border-radius: 6px;
   color: #fff;
-  padding: 0.5rem;
+  padding: .5rem;
   width: 2.5rem;
   height: 2.5rem;
 }
@@ -101,6 +101,7 @@ nav a:focus {
   border: 2px solid #222;
   border-radius: 0;
 }
+
 .icon {
   position: relative;
 }
@@ -155,7 +156,7 @@ article footer {
   align-items: center;
   background-color: #259f95;
   background-image: none;
-  border-radius: 6px 6px 0 0 ;
+  border-radius: 6px 6px 0 0;
   color: #fff;
 }
 
